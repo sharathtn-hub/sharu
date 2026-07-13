@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding new file
+=======
+this file also use third time
+>>>>>>> c95ed7f (ten)
